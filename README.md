@@ -34,7 +34,7 @@ Ce projet est un site web statique. Aucune installation complexe n'est requise.
 
 ## Lien vers le site
 Vous pouvez voir le projet en ligne ici :  
-[DigitalCraft](https://digital-craft31.netlify.app)
+[DigitalCraft](https://louis-dub.github.io/Digital-Craft/)
 
 ## Apreçu
 ![Aperçu](image/apercu.png)
