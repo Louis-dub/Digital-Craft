@@ -1,45 +1,44 @@
-# DigitalCraft - Site Vitrine
+# DigitalCraft - Showcase Website
 
-Bienvenue sur le dépôt du projet DigitalCraft. Il s'agit d'un site vitrine statique conçu pour un freelance spécialisé dans la création de sites web. Le site est moderne, responsive et construit avec des technologies web standards.
+Welcome to the DigitalCraft project repository. This is a static showcase website designed for a freelancer specializing in web development. The site is modern, responsive, and built with standard web technologies.
 
-##  Aperçu du projet
+## Project Overview
 
-Ce site a pour but de présenter les services, l'expertise et les valeurs de l'entreprise DigitalCraft, tout en offrant un moyen simple pour les clients potentiels de prendre contact.
+This website aims to present DigitalCraft's services, expertise and values, while offering a simple way for potential clients to get in touch.
 
 ## Pages
 
-- **Accueil (`index.html`)**: Présente le slogan, les points forts (Rapidité, Moderne, Personnalisé) et un appel à l'action.
-- **Nos Services (`service.html`)**: Détaille les différentes offres comme la création de sites vitrines, la mise en ligne et la personnalisation graphique.
-- **Contactez-nous (`contact.html`)**: Contient un formulaire de contact fonctionnel qui utilise Formspree pour l'envoi des messages.
-- **À Propos (`propos.html`)**: Une page personnelle pour présenter le créateur du site, ses valeurs et son parcours.
+- **Home (`index.html`)**: Presents the tagline, key highlights (Speed, Modern, Personalized) and a call to action.
+- **Our Services (`service.html`)**: Details the various offerings such as showcase website creation, online publishing and graphic customization.
+- **Contact Us (`contact.html`)**: Contains a functional contact form that uses Formspree to handle message submissions.
+- **About (`propos.html`)**: A personal page to introduce the site's creator, his values and background.
 
-## Technologies utilisées
+## Technologies Used
 
-- **HTML5**: Pour la structure sémantique des pages.
-- **CSS3**: Pour le style personnalisé (via `styles.css`).
-- **Bootstrap 5.3**: Utilisé comme framework CSS principal pour un design responsive et des composants modernes.
-- **JavaScript**: Pour d'éventuelles interactions futures (via `script.js`).
-- **Formspree**: Pour la gestion du formulaire de contact sans backend.
+- **HTML5**: For the semantic structure of the pages.
+- **CSS3**: For custom styling (via `styles.css`).
+- **Bootstrap 5.3**: Used as the main CSS framework for responsive design and modern components.
+- **JavaScript**: For potential future interactions (via `script.js`).
+- **Formspree**: For handling the contact form without a backend.
 
-## Comment lancer le projet localement ?
+## How to Run the Project Locally
 
-Ce projet est un site web statique. Aucune installation complexe n'est requise.
+This project is a static website. No complex installation is required.
 
-1.  Clonez ce dépôt sur votre machine locale (si vous utilisez Git) :
-    ```bash
-    git clone <URL_DU_DEPOT>
-    ```
-2.  Naviguez dans le dossier du projet.
-3.  Ouvrez le fichier `index.html` directement dans votre navigateur web préféré.
+1. Clone this repository to your local machine (if you are using Git):
+   ```bash
+   git clone <REPOSITORY_URL>
+   ```
+2. Navigate to the project folder.
+3. Open the `index.html` file directly in your preferred web browser.
 
-## Lien vers le site
-Vous pouvez voir le projet en ligne ici :  
+## Live Website
+You can view the project online here:  
 [DigitalCraft](https://louis-dub.github.io/Digital-Craft/)
 
-## Apreçu
-![Aperçu](image/apercu.png)
+## Preview
+![Preview](image/apercu.png)
 
 ---
 
 © 2025 Louis DUBOIS - DigitalCraft
-
